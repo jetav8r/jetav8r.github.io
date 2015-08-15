@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jetav8r.github.io
+title: Wayne Johnson
+email: waynejohnson1965@gmail.com
+author: Wayne
+description: Personal portfolio of apps I've designed and programmed and blog
+paginate: 5
+google_analytics: 
